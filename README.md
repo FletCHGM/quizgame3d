@@ -1,16 +1,5 @@
-# quizgame3d
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://github.com/FletCHGM/quizgame3d/assets/91337317/7d085a11-84e1-4db2-9151-158aef7f5999
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
