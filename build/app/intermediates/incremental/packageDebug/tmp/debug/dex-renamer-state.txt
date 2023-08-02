@@ -1,0 +1,4 @@
+#Wed Aug 02 17:43:04 MSK 2023
+base.0=C\:\\Users\\daved\\Desktop\\projects\\flutter_apps\\quizgame3d\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
